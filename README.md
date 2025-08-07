@@ -8,10 +8,8 @@ O sistema permite que clientes agendem horários para manhã, tarde e noite, por
 
 ## 📸 Screenshots do Frontend
 
-*Adicione aqui as imagens do frontend da aplicação. Exemplo:*
-
-<!-- ![Descrição da Imagem 1](./caminho/para/imagem1.png) -->
-<!-- ![Descrição da Imagem 2](./caminho/para/imagem2.png) -->
+![Descrição da Imagem 1](./src/assets/readme/img1.png)
+![Descrição da Imagem 2](./src/assets/readme/img2.png)
 
 ## 🛠️ Tecnologias Utilizadas
 
