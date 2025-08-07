@@ -48,7 +48,7 @@ Para configurar e executar o projeto localmente, você precisará rodar dois ser
     ```bash
     npm run dev
     ```
-    *Este comando irá compilar os arquivos JavaScript e CSS e iniciar um servidor de desenvolvimento, que geralmente roda em `http://localhost:3000`.*
+    *Este comando irá compilar os arquivos JavaScript e CSS e iniciar um servidor de desenvolvimento, que roda em `http://localhost:3000`.*
 
 6.  **Acesse a Aplicação no Navegador:**
     Abra seu navegador e acesse `http://localhost:3000` para visualizar o painel de agendamentos.
